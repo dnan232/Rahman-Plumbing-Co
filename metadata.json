@@ -1,0 +1,8 @@
+{
+  "name": "Rahman Plumbing Co.",
+  "description": "A clean, basic single-page portfolio website demo for Rahman Plumbing Co.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
